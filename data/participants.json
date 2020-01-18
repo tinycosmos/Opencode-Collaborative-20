@@ -10,16 +10,6 @@
       "referral":""
    },
    {
-      "name":"Aditi Jain",
-      "imageurl":"https://avatars0.githubusercontent.com/u/58393925?s=400&v=4",
-      "about":"Hello I am a Beginner",
-      "college":"IIIT Allahabad",
-      "facebook":"https://www.facebook.com/profile.php?id=100026277772506",
-      "github":"https://github.com/aj0311",
-      "twitter":"",
-      "referral":"seniors"
-   },
-    {
       "name":"Himanshu Vishwakarma",
       "imageurl":"https://avatars2.githubusercontent.com/u/54054289?s=400&v=4",
       "about":"Hello, I am a learner !!",
@@ -3252,4 +3242,15 @@
        "twitter" : "",
        "referral" : ""    
    }
+   {
+       "name" : "Roshni Prajapati",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "...",
+       "college" : "IIITA",
+       "facebook" : "url",
+       "github" : "https://github.com/tinycosmos",
+       "twitter" : "",
+       "referral" : ""
+    }   
+   
 ]
